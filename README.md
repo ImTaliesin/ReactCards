@@ -1,2 +1,0 @@
-# ReactCards
-Created with CodeSandbox
